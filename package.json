@@ -17,6 +17,7 @@
     "LICENSE",
     "README.md"
   ],
+  "repository": "git@github.com:hellofantastic/react-sidedrawer.git",
   "keywords": [
     "react",
     "typescript",
