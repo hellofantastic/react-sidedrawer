@@ -8,4 +8,4 @@ An exercise in typescript and tests
 
 - Work out context/hooks
 - Style props
-- Settings for positioning anf animation
+- Settings for positioning and animation
