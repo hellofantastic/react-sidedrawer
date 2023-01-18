@@ -9,4 +9,4 @@ An exercise in typescript and tests
 - Work out context/hooks
 - Style props
 - Settings for positioning and animation
-- Publish to npm if it seems useful and doesn't already exist
+- Publish to npm if it seems useful and doesn't already exist using functional components
